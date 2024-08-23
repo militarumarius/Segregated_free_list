@@ -1,4 +1,4 @@
-// Copyright Militaru-Ionut-Marius 313CAb 2023-2024
+// Copyright Militaru-Ionut-Marius
 
 #include "sfl.h"
 #include <stdio.h>
